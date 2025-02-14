@@ -1,0 +1,10 @@
+variable "vpc_cidr" {}
+variable "subnet_cidrs" {
+  
+}
+variable "azs" {
+    type = list(string)  
+}
+variable "vpc_name" {
+    
+}
