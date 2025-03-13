@@ -34,3 +34,4 @@ variable "min_size" {
     type = number  
 }
 
+
